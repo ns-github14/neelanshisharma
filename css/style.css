@@ -553,7 +553,7 @@ h1,h2,h3
 }
 .hero
 {
-	background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("http://namastetraveler.in/wp-content/uploads/2019/06/uttarakhand-banner.jpg");
+	background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("images/banner.jpg");
 	background-size:cover;
 	padding:10rem 5rem;
 	height:calc(1vh * 100 / (80 / 100));
