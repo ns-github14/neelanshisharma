@@ -105,6 +105,9 @@ h1,h2,h3
 }
 @media only screen and (max-width: 30.5em)
 {
+	.hero{
+		background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("http://namastetraveler.in/wp-content/uploads/2019/06/uttarakhand-banner.jpg");
+	}
 	.hero__name
 	{
 		margin-bottom:2rem
@@ -112,6 +115,9 @@ h1,h2,h3
 }
 @media only screen and (max-width: 23.75em)
 {
+	.hero{
+		background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("http://namastetraveler.in/wp-content/uploads/2019/06/uttarakhand-banner.jpg");
+	}
 	.hero__name
 	{
 		font-size:7rem
@@ -226,9 +232,8 @@ h1,h2,h3
 }
 @media only screen and (max-width: 39.75em)
 {
-	.hero__tagline
-	{
-		display:none
+	.hero{
+		background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("http://namastetraveler.in/wp-content/uploads/2019/06/uttarakhand-banner.jpg");
 	}
 }
 .about__description
