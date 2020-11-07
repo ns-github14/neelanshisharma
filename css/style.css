@@ -107,7 +107,7 @@ h1,h2,h3
 @media only screen and (max-width: 30.5em)
 {
 	.hero{
-		background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("http://namastetraveler.in/wp-content/uploads/2019/06/uttarakhand-banner.jpg");
+		background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("images/banner.jpg");
 	}
 	.hero__name
 	{
@@ -117,7 +117,7 @@ h1,h2,h3
 @media only screen and (max-width: 23.75em)
 {
 	.hero{
-		background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("http://namastetraveler.in/wp-content/uploads/2019/06/uttarakhand-banner.jpg");
+		background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("images/banner.jpg");
 	}
 	.hero__name
 	{
@@ -130,7 +130,7 @@ h1,h2,h3
 }
 .hero
 {
-	background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("http://namastetraveler.in/wp-content/uploads/2019/06/uttarakhand-banner.jpg");
+	background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("images/banner.jpg");
 	background-size:cover;
 	padding:10rem 5rem;
 	height:auto;
@@ -221,7 +221,7 @@ h1,h2,h3
 {
 	.hero
 	{
-		background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("http://namastetraveler.in/wp-content/uploads/2019/06/uttarakhand-banner.jpg")
+		background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("images/banner.jpg")
 	}
 }
 @media only screen and (hover: none)
@@ -234,7 +234,11 @@ h1,h2,h3
 @media only screen and (max-width: 39.75em)
 {
 	.hero{
-		background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("http://namastetraveler.in/wp-content/uploads/2019/06/uttarakhand-banner.jpg");
+		background-image:linear-gradient(to right, rgba(10,10,10,0.6), rgba(10,10,10,0.6)),url("images/banner.jpg");
+	}
+	.hero__tagline
+	{
+		display:none
 	}
 }
 .about__description
